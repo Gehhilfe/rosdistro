@@ -1,3 +1,5 @@
+aksw:
+  ubuntu: [ros-melodic-aksw]
 ace:
   arch: [ace]
   debian: [libace-dev]
